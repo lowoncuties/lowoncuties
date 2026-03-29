@@ -3,7 +3,7 @@
 
 
 
-- 👋 Hi, I’m Lukas or <b>@lowoncuties</b>
+- 👋 Hi, I’m Luke or <b>@lowoncuties</b>
 - 👀 I’m interested in Machine learning, Data science, and MLOps
 - 👀 I'm also a Docker, Terraform, K8s, and AWS enjoyer
 - 🌱 I’m currently working on application of ML in the Bioinformatics
